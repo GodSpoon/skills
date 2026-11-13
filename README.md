@@ -35,6 +35,7 @@ cp -r skills/api-spec-hunt ~/.hermes/skills/       # Hermes
 | Skill | What it does | Category |
 |-------|--------------|----------|
 | [api-spec-hunt](./skills/api-spec-hunt) | Find, verify, and package a vendor's machine-readable API definition (OpenAPI > Postman > SDK > docs), sweep the behavioral facts specs omit, emit a cited hand-off file, and generate a working CLI from the spec | API / Integration |
+| [evidence-backed-agent-prompts](./skills/evidence-backed-agent-prompts) | Turn a goal into a source-backed, implementation-ready coding-agent brief: collect primary sources, ask consequential questions, emit a self-contained PROMPT.md with exact URLs and verification limits, define acceptance tests, then review the executing agent's evidence | Agent / Prompt Engineering |
 
 ## What a skill looks like
 
