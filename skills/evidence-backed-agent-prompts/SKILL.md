@@ -1,6 +1,6 @@
 ---
 name: evidence-backed-agent-prompts
-description: Use when writing a source-backed coding-agent brief or prompt for OMP (Oh My Pi), Claude Code, or another agent, or when an implementation handoff needs verified evidence. Runs eight stages: collect primary sources, ask consequential questions before building, write a self-contained PROMPT.md with exact URLs and verification limits, define acceptance tests, then optionally launch an approved OMP run and review its evidence. Keywords: agent prompt, coding brief, OMP, Oh My Pi, handoff, evidence-backed, source ledger, implementation brief, ESP32.
+description: "Use when writing a source-backed coding-agent brief or prompt for OMP (Oh My Pi), Claude Code, or another agent, or when an implementation handoff needs verified evidence. Runs eight stages: collect primary sources, ask consequential questions before building, write a self-contained PROMPT.md with exact URLs and verification limits, define acceptance tests, then optionally launch an approved OMP run and review its evidence. Keywords: agent prompt, coding brief, OMP, Oh My Pi, handoff, evidence-backed, source ledger, implementation brief, ESP32."
 ---
 # Evidence-backed agent prompts: Hermes -> OMP
 
