@@ -12,6 +12,7 @@ Status: Hermes-first v2, prepare-only by default. Replaces the earlier Cursor-ce
 | `references/sources.md` | workflow source ledger and the ESP32/Auvik reference locators |
 | `references/hermes-omp.md` | verified OMP v18.16.0 CLI surface, argon resolution, quota failure mode |
 | `templates/HANDOFF.md` | portable brief skeleton |
+| `scripts/` | `omp_probe.sh` (read-only capability discovery), `omp-delegate.sh` (one bounded run + run record) |
 
 ## Install
 

@@ -18,7 +18,7 @@ Local runtime evidence (omp v18.16.0 on Linux x64, 2026-11-13): `omp --help` fla
 `gemini-4-argon` / "Gemini 4 Argon" across the google, google-vertex, github-copilot,
 venice, cloudflare-ai-gateway, commandcode, nanogpt, kilo and zenmux providers; a one-shot
 smoke run returning `429 exceeded_current_quota_error` for the `kimi-code/kimi-for-coding`
-role. Preserved in the public repo `evidence-backed-agent-prompts` under `integrations/omp/`.
+role. Preserved in this skill's `scripts/` directory (`omp_probe.sh`, `omp-delegate.sh`, `README.md`).
 
 ## ESP32/Auvik original reference case
 Preserved source locators from the earlier discussion; NOT all re-reviewed in this revision. Use only for relevant projects.
